@@ -5,7 +5,7 @@ setup(
     version='0.0.1',
     packages=find_packages("../cource"),
     scripts=["bin/main"],
-    url='https://github.com/whydejection/python-labs-homeworkLysenko/tree/main/Course',
+    url='https://github.com/whydejection/currency_converter',
     license='Apache-2.0',
     author='Lysenko Gleb Vladimirovich',
     author_email='lysenko.gv@edu.spbstu.ru',
@@ -14,4 +14,5 @@ setup(
     install_requires=[
         'tabulate>=0.8.9',
     ],
+
 )
