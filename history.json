@@ -1,0 +1,29 @@
+[
+    {
+        "timestamp": "2026-02-16 20:50:44",
+        "initial_amount": 222.0,
+        "from": "USD",
+        "to": "RUB",
+        "converted_raw": 17205.0,
+        "commission": 344.1,
+        "final_amount": 16860.9
+    },
+    {
+        "timestamp": "2026-02-16 20:51:00",
+        "initial_amount": 12.0,
+        "from": "RUB",
+        "to": "USD",
+        "converted_raw": 0.15483870967741936,
+        "commission": 0.0030967741935483874,
+        "final_amount": 0.15174193548387097
+    },
+    {
+        "timestamp": "2026-02-16 20:51:16",
+        "initial_amount": 21792431.0,
+        "from": "USD",
+        "to": "RUB",
+        "converted_raw": 1688913402.5,
+        "commission": 33778268.05,
+        "final_amount": 1655135134.45
+    }
+]
